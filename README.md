@@ -3,5 +3,5 @@
     <ul>
         <li>Trần Quốc Thắng - 19520951</li>
         <li>Trần Công Minh - 19521855</li>
-        <li>Châu Ngọc Huy - 19521599<li>
+        <li>Châu Ngọc Huy - 19521599</li>
     </ul>
