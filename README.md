@@ -15,4 +15,4 @@
   - [Tuan3](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/BaiTapTuan/Tuan3): H-Index, Khóa số, Con đường gốm sứ
 
 - LuyenTap: Bài tập tự làm và bài tập về nhà của các nhóm tổ chức Seminar
-  - [BTVN-Nhom1](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom1)
+  - [BTVN-Nhom1](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom1): Chia để trị
