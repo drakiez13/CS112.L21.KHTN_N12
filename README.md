@@ -17,4 +17,7 @@
 
 - LuyenTap: Bài tập về nhà của các nhóm tổ chức Seminar
   - [BTVN-Nhom1](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom1): Chia để trị
-  - [BTVN-Nhom2](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom2)
+  - [BTVN-Nhom2](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom2): Tham lam
+  - [BTVN-Nhom9](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom9): Vét cạn
+
+- TuLuyenTap: Các bài tập nhóm tự sưu tầm và luyện tập
