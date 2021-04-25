@@ -8,3 +8,4 @@ Mỗi bài tập được đặt trong một thư mục con bao gồm đề bài
 ## Tiến độ
 
 - [x] [Breaking the Records](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/TuLuyenTap/BreakingTheRecords)
+- [ ] [Group Photo](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/TuLuyenTap/GroupPhoto)
