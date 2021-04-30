@@ -5,33 +5,33 @@ def get_sudoku_board():
         game_board.append(line)
     return game_board
     
-def print_sudoku(s):
-    for i in range(len(s)):
-        if (i % 3 == 0 and i != 0): print("- "*11)
-        for j in range(len(s)):
-            if (j % 3 == 0 and j != 0): print("| ", end = "")
-            if (j == 8):
-                print(s[i][j])
+def print_sudoku(board):
+    for row in range(len(board)):
+        if (row % 3 == 0 and row != 0): print("- "*11)
+        for col in range(len(board)):
+            if (col % 3 == 0 and col != 0): print("| ", end = "")
+            if (col == 8):
+                print(board[row][col])
             else:
-                print(str(s[i][j]) + " ", end = "")
+                print(str(board[row][col]) + " ", end = "")
 
 def find_blank_box(board):
-    for i in range(len(board)):
-        for j in range(len(board[0])):
-            if (board[i][j] == 0):
-                return i, j
+    for row in range(len(board)):
+        for col in range(len(board[0])):
+            if (board[row][col] == 0):
+                return row, col
     return None
 
-def check(board, value, row, colum):
-    for i in range(len(board)):
-        if (board[i][colum] == value):
+def check(board, value, row, col):
+    for r in range(len(board)):
+        if (board[r][col] == value):
             return False
-    for i in range(len(board[0])):
-        if (board[row][i] == value):
+    for c in range(len(board[0])):
+        if (board[row][c] == value):
             return False
-    for i in range(int(row/3)*3, int(row/3)*3 + 3):
-        for j in range(int(colum/3)*3, int(colum/3)*3 + 3):
-            if (board[i][j] == value):
+    for r in range(int(row/3)*3, int(row/3)*3 + 3):
+        for c in range(int(col/3)*3, int(col/3)*3 + 3):
+            if (board[r][c] == value):
                 return False
     return True
 
@@ -41,15 +41,15 @@ def solve_sudoku(board):
     if (blank_box is None):
         return True
     else:
-        row, column = blank_box 
+        row, col = blank_box 
     
     for number in range(1, 10):
-        if (check(board, number, row, column)): 
-            board[row][column] = number 
+        if (check(board, number, row, col)): 
+            board[row][col] = number 
             if solve_sudoku(board):
                 return True
             else:
-                board[row][column] = 0
+                board[row][col] = 0
         
     return False
 
