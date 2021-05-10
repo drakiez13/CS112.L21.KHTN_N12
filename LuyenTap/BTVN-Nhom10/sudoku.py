@@ -15,12 +15,13 @@ def print_sudoku(board):
             else:
                 print(str(board[row][col]) + " ", end = "")
 
-def find_blank_box(board):
+def find_blank_boxes(board):
+    result = []
     for row in range(len(board)):
         for col in range(len(board[0])):
             if (board[row][col] == 0):
-                return row, col
-    return None
+                result.append((row, col))
+    return result
 
 def check(board, value, row, col):
     for r in range(len(board)):
@@ -35,18 +36,16 @@ def check(board, value, row, col):
                 return False
     return True
 
-def solve_sudoku(board):
-    blank_box = find_blank_box(board)
-
-    if (blank_box is None):
+def solve_sudoku(board, blank_boxes, step):
+    if step >= len(blank_boxes):
         return True
     else:
-        row, col = blank_box 
+        row, col = blank_boxes[step]
     
     for number in range(1, 10):
-        if (check(board, number, row, col)): 
+        if (check(board, number, row, col)):
             board[row][col] = number 
-            if solve_sudoku(board):
+            if solve_sudoku(board, blank_boxes, step=step+1):
                 return True
             else:
                 board[row][col] = 0
@@ -64,6 +63,7 @@ game_board = [[0, 0, 5, 0, 0, 8, 0, 0, 0],
        [0, 0, 0, 0, 2, 0, 0, 4, 9]]
 
 print_sudoku(game_board)
-solve_sudoku(game_board)
+blank_boxes = find_blank_boxes(game_board)
+solve_sudoku(game_board, blank_boxes, step=0)
 print("Loi giai:")
 print_sudoku(game_board)
