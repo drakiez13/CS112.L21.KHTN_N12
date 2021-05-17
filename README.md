@@ -21,7 +21,9 @@
   - [BTVN-Nhom1](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom1): Chia để trị
   - [BTVN-Nhom2](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom2): Tham lam
   - [BTVN-Nhom9](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom9): Vét cạn
-  - [BTVN-Nhom10](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom9): Quay lui
+  - [BTVN-Nhom10](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom10): Quay lui
+  - [BTVN-Nhom7](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom7): Nhánh và cận
+  - [BTVN-Nhom4]
 
 - TuLuyenTap: Các bài tập nhóm tự sưu tầm và luyện tập
 
