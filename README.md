@@ -14,8 +14,9 @@
   - [Tuan2](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/BaiTapTuan/Tuan2): Tảo biển, trạm thu phí
   - [Tuan3](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/BaiTapTuan/Tuan3): H-Index, Khóa số, Con đường gốm sứ
   - [Tuan4](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/BaiTapTuan/Tuan4): Đổi mới, Số nguyên mới, Khôi phục hệ thống cấp nước
-  - [Tuan5]: Thầy không giao bài tập tuần
-  - [Tuan6]: 
+  - Tuan5: Thầy không giao bài tập tuần
+  - Tuan6: Thầy không giao bài tập tuần
+  - [Tuan7](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/BaiTapTuan/Tuan7): Sửa hàng rào, phân số, khởi nghiệp
 
 - LuyenTap: Bài tập về nhà của các nhóm tổ chức Seminar
   - [BTVN-Nhom1](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom1): Chia để trị
