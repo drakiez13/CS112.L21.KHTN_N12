@@ -17,6 +17,7 @@
   - Tuan5: Thầy không giao bài tập tuần
   - Tuan6: Thầy không giao bài tập tuần
   - [Tuan7](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/BaiTapTuan/Tuan7): Sửa hàng rào, phân số, khởi nghiệp
+  - Tuan8: Thầy không giao bài tập tuần
 
 - LuyenTap: Bài tập về nhà của các nhóm tổ chức Seminar
   - [BTVN-Nhom1](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom1): Chia để trị
@@ -25,7 +26,10 @@
   - [BTVN-Nhom10](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom10): Quay lui
   - [BTVN-Nhom7](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom7): Nhánh và cận
   - [BTVN-Nhom4](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom4): Quy hoạch động
+  - [BTVN-Nhom3](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom3): Geometric algorithm
 
 - TuLuyenTap: Các bài tập nhóm tự sưu tầm và luyện tập
 
-- Certificate
+- Certificate:
+
+- Seminar:
