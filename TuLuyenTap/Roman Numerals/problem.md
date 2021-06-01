@@ -31,6 +31,7 @@ The number will be between  and  (both included).
 **Sample Input**
 
 > CDXXI
+
 **Sample Output**
 
 > True
