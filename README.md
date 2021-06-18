@@ -32,3 +32,7 @@
 - MinhChung
 
 - Seminar
+  - Slide: [PDF](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/Seminar/Slide.pdf) [PPTX](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/Seminar/Slide.pptx)
+  - [Nội dung ôn tập Kahoot](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/Seminar/Kahoot.pdf)
+  - [Báo cáo hoạt động nhóm](https://github.com/doragon-92/CS112.L21.KHTN_N12/tree/master/Seminar/BaoCaoNhom.pdf)
+  - Biên bản buổi học:
