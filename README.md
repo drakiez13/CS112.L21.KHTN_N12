@@ -36,3 +36,4 @@
   - [Nội dung ôn tập Kahoot](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/Seminar/Kahoot.pdf)
   - [Báo cáo hoạt động nhóm](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/Seminar/BaoCaoNhom.pdf)
   - [Biên bản buổi học](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/Seminar/BienBanSeminar.docx)
+  - [Báo cáo đánh giá BTVN các nhóm](https://github.com/drakiez92/CS112.L21.KHTN_N12/blob/master/Seminar/%C4%90%C3%A1nh%20gi%C3%A1%20BTVN.pdf)
