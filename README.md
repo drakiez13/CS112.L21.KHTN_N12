@@ -27,7 +27,7 @@
   - [BTVN-Nhom6](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom6): Graph algorithm
   - [BTVN-Nhom11](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/LuyenTap/BTVN-Nhom11): Luyện tập 1
 
-- TuLuyenTap: Các bài tập nhóm tự sưu tầm và luyện tập
+- [TuLuyenTap](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/TuLuyenTap): Các bài tập nhóm tự sưu tầm và luyện tập
 
 - MinhChung:
   - [Hackerrank_Profile](https://github.com/drakiez92/CS112.L21.KHTN_N12/blob/master/MinhChung/Hackerrank_Profile.md)
