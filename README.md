@@ -29,7 +29,9 @@
 
 - TuLuyenTap: Các bài tập nhóm tự sưu tầm và luyện tập
 
-- MinhChung
+- MinhChung:
+  - [Hackerrank_Profile](https://github.com/drakiez92/CS112.L21.KHTN_N12/blob/master/MinhChung/Hackerrank_Profile.md)
+  - [Certificate_Computational Thinking](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/MinhChung/Certificate_Computational%20Thinking)
 
 - Seminar
   - Slide: [PDF](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/Seminar/Slide.pdf) [PPTX](https://github.com/drakiez92/CS112.L21.KHTN_N12/tree/master/Seminar/Slide.pptx)
